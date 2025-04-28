@@ -2,5 +2,9 @@
     {
         "package": "dmir",
         "url": "https://gitlab.au.dk/ecos/tools/r-pkgs/dmir"
+    },
+    {
+        "package": "camalienr",
+        "url": "https://gitlab.au.dk/ecos/biodiversa/camalien/camalienr"
     }
 ]
