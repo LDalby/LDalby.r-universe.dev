@@ -6,5 +6,9 @@
     {
         "package": "camalienr",
         "url": "https://gitlab.au.dk/ecos/biodiversa/camalien/camalienr"
+    },
+    {
+        "package": "naturdata",
+        "url": "https://gitlab.au.dk/ecos/tools/r-pkgs/naturdata"
     }
 ]
